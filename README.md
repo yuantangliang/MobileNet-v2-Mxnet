@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a Mxnet implementation of Google's MobileNets (v1 and v2). For details, please read the following papers:
+This is a Mxnet implementation of Google's MobileNets (v2). For details, please read the following papers:
 - [v2] [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/abs/1801.04381)
 
 This Model is converted from [MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
