@@ -23,7 +23,7 @@ Evaluate MobileNet v2:
 
 `python mobile_v2_eval.py `
 
-Expected Outputs,the output is different from caffe version, it could be cause by difference in proprocess:
+Expected Outputs,the output is different from caffe version, it could be cause by difference in preprocess:
 
 ```
 (0.38443729, "'n02124075 Egyptian cat'")
