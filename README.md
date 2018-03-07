@@ -23,7 +23,7 @@ Evaluate MobileNet v2:
 
 `python mobile_v2_eval.py `
 
-Expected Outputs,the output is different from caffe version, it could be cause by different in proprocess:
+Expected Outputs,the output is different from caffe version, it could be cause by difference in proprocess:
 
 ```
 (0.38443729, "'n02124075 Egyptian cat'")
@@ -33,7 +33,7 @@ Expected Outputs,the output is different from caffe version, it could be cause b
 (0.031767886, "'n02094258 Norwich terrier'")
 ```
 
-### Todo List
-[*] convert symbol
-[ ] add python symbol
+### Todo List ###
+- [X] convert symbol
+- add python symbol
 
